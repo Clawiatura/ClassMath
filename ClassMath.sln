@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMath", "ClassMath\ClassMath.csproj", "{75516695-B495-45E1-B658-EAE886562713}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMath2", "ClassMath2\ClassMath2.csproj", "{18625C9A-BEC5-446D-82DD-D23C59E8E798}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75516695-B495-45E1-B658-EAE886562713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75516695-B495-45E1-B658-EAE886562713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75516695-B495-45E1-B658-EAE886562713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18625C9A-BEC5-446D-82DD-D23C59E8E798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18625C9A-BEC5-446D-82DD-D23C59E8E798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18625C9A-BEC5-446D-82DD-D23C59E8E798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18625C9A-BEC5-446D-82DD-D23C59E8E798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
