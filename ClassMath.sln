@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMath", "ClassMath\Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMath2", "ClassMath2\ClassMath2.csproj", "{18625C9A-BEC5-446D-82DD-D23C59E8E798}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YslOperatot", "YslOperatot\YslOperatot.csproj", "{806D2814-A9B2-4F04-B067-022A24B78477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YslOper2", "YslOper2\YslOper2.csproj", "{1618AE1D-B084-48F9-ACB5-A9883B2B48B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{18625C9A-BEC5-446D-82DD-D23C59E8E798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18625C9A-BEC5-446D-82DD-D23C59E8E798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18625C9A-BEC5-446D-82DD-D23C59E8E798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806D2814-A9B2-4F04-B067-022A24B78477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806D2814-A9B2-4F04-B067-022A24B78477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806D2814-A9B2-4F04-B067-022A24B78477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806D2814-A9B2-4F04-B067-022A24B78477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1618AE1D-B084-48F9-ACB5-A9883B2B48B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1618AE1D-B084-48F9-ACB5-A9883B2B48B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1618AE1D-B084-48F9-ACB5-A9883B2B48B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1618AE1D-B084-48F9-ACB5-A9883B2B48B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
