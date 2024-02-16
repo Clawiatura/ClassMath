@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMath", "ClassMath\ClassMath.csproj", "{75516695-B495-45E1-B658-EAE886562713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMath", "ClassMath\ClassMath.csproj", "{75516695-B495-45E1-B658-EAE886562713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMath2", "ClassMath2\ClassMath2.csproj", "{18625C9A-BEC5-446D-82DD-D23C59E8E798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMath2", "ClassMath2\ClassMath2.csproj", "{18625C9A-BEC5-446D-82DD-D23C59E8E798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YslOperatot", "YslOperatot\YslOperatot.csproj", "{806D2814-A9B2-4F04-B067-022A24B78477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YslOperatot", "YslOperatot\YslOperatot.csproj", "{806D2814-A9B2-4F04-B067-022A24B78477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YslOper2", "YslOper2\YslOper2.csproj", "{1618AE1D-B084-48F9-ACB5-A9883B2B48B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YslOper2", "YslOper2\YslOper2.csproj", "{1618AE1D-B084-48F9-ACB5-A9883B2B48B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRandom", "ClassRandom\ClassRandom.csproj", "{FEA96A93-799D-4E4D-9D68-7A88F2B6E700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassRandom", "ClassRandom\ClassRandom.csproj", "{FEA96A93-799D-4E4D-9D68-7A88F2B6E700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{2345C07F-BE1F-4420-A118-1ECA82A42F59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FEA96A93-799D-4E4D-9D68-7A88F2B6E700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA96A93-799D-4E4D-9D68-7A88F2B6E700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA96A93-799D-4E4D-9D68-7A88F2B6E700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2345C07F-BE1F-4420-A118-1ECA82A42F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2345C07F-BE1F-4420-A118-1ECA82A42F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2345C07F-BE1F-4420-A118-1ECA82A42F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2345C07F-BE1F-4420-A118-1ECA82A42F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
